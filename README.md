@@ -63,19 +63,19 @@
 
 ## 元學習學習框架 - 以使用 Unity 開發打磚塊為例
 ### 建立自信
-1. 找到 Unity 安裝檔案[Download - Unity](https://unity3d.com/get-unity/download)
-2. 成功安裝 Unity
-3. 成功建立專案[Creating New Projects - Unity Learn](https://learn.unity.com/tutorial/creating-new-projects)
+1. 找到 Unity 安裝檔案。[Download - Unity](https://unity3d.com/get-unity/download)
+2. 成功安裝 Unity。
+3. 成功建立專案。[Creating New Projects - Unity Learn](https://learn.unity.com/tutorial/creating-new-projects)
 
 ### 建立基礎框架
-1. 找到一個打磚塊模板、教學
-2. 讓找到的模板、教學順利的執行起來
+1. 找到一個打磚塊模板、教學。
+2. 讓找到的模板、教學順利的執行起來。
 
 ### 遷移
-1. 拆解打磚塊需要哪些功能及資源
-2. 將這些功能及資源逐一拆解成可執行項目
-3. 將可執行項目逐一實作
-4. 利用「已知理解未知」
+1. 拆解打磚塊需要哪些功能及資源。
+2. 將這些功能及資源逐一拆解成可執行項目。
+3. 將可執行項目逐一實作。
+4. 利用「已知理解未知」。
 
 ### 提取練習
 1. 複製別人的程式碼。
